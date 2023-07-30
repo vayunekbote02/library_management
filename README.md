@@ -3,7 +3,7 @@ Basic library management system made using Python(Tkinter) and SQLite 3 db.
 It allows you to add new books, delete a book record, issue book to a person, delete all records, edit a book record and view all the book records together.
 
 ## The main screen
-![image](https://github.com/vayunekbote02/library_management/assets/91115665/c91bfa21-2fde-4eab-b0f5-4e8bb41e09df)
+![image](https://github.com/vayunekbote02/library_management/assets/91115665/9499b941-783e-4986-8e52-10d1e8823316)
 
 ## Adding a new book
 ![image](https://github.com/vayunekbote02/library_management/assets/91115665/767f155f-27a7-44cc-8c8d-9ea5aafdd819)
