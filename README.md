@@ -1,4 +1,4 @@
-# library_management
+# Library Management System in Python
 Basic library management system made using Python(Tkinter) and SQLite 3 db.
 It allows you to add new books, delete a book record, issue book to a person, delete all records, edit a book record and view all the book records together.
 
